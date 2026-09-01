@@ -1,0 +1,16 @@
+node_modules/
+.next/
+deploy-ready/
+packages/db/src/generated/
+out/
+build/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+.turbo/
+.vercel
+.DS_Store
+next-env.d.ts
+coverage/
